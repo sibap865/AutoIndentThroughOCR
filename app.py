@@ -30,6 +30,7 @@ toggle_input(choice == "Image")
 result = None
 if st.session_state.use_text:
     text_input = st.text_input("Enter some text:")
+    text_input = text_input.strip()
     if text_input:
         filtered_df = df[df["Description"].str.contains(text_input, case=False, na=False)]
         filtered_df1 = df[df["Part Name"].str.contains(text_input, case=False, na=False)]
