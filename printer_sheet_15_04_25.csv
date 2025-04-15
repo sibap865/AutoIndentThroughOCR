@@ -1,0 +1,308 @@
+Machine,Part Name,Description,STOCK,LOCATION
+printer lid,timing belt,"timing belt, l430,w15,5m",,
+printer aoi,timing belt,"timing belt, l265,w15,5m",8.0,R-13/D
+printer,vaccum pad,"3m, as per drawing, for printer picker",,RACK-03/C
+printer,quick release coupling,quick release ss coupling 1/2 '' both end female thread 1/2'',8.0,R-27/C
+printer,vfd,vfd-delta-vfd2a8ms21ansaa,2.0,R-27/B
+printer,timing belt,timing belt-std-3320-5m-15,7.0,R-27/D
+printer,tonge assembly,tonge assembly for printer loader,1.0,AL-22
+printer line,timing belt,"std 500-s5m,10",15.0,R-13/D
+printer,timing belt,"s5m-15paz,length : 3320 mm",,
+printer,timing belt,"schy htbn 976,s8m-250-nfb-nft",7.0,R-27/D
+printer,timing belt,"schy t10,30 w-10250l+wfb+nft+3pu",,
+printer,timing belt,"std 235-s5m, width 10 mm",18.0,R-13/D
+printer,timing belt,"s5m-15paz,length : 3320 mm",,
+printer sorter,timing belt,"360-s5m, width 15 mm",14.0,R-13/D
+printer,timing belt,"std 500-5m,width 10 mm",15.0,R-13/C
+printer (zebra),timing belt,"timing belt,s2m-280,width 6.5 mm",12.0,R-13/D
+printer,drive,servo drive-hiwin d1-36-e3-2-0-00,1.0,R-27/A
+printer,condenser,combustion tower condenser-sf01-pf-013-v5-300300400082c,,
+printer,sensor,suction cup-smc-zp3-06umf,100.0,AL-22
+printer,"thermocouple rod 6.4*220-v1,1050℃,",sf01-dq-056-v1,,
+printer,"thermocouple rod 6.4*180-v1,1050℃",sf01-dq-057-v1,,
+printer,tester probe holder,tester probe holder as per sample,21.0,AL-22
+printer,tester bus bar,"tester bus bar , ta03la-pt-62-v5",,
+printer,temp controller,"make : selec, model : tc544",2.0,AL-22
+printer,teflon bar,"teflon bar, l : 4800, w: 20, h: 10 mm",,
+printer,tdk unit,"make : tdk-labmda, model :  pv-nt-gen-30-25/ln",1.0,
+printer,synchronous belt,htbn310s5m-100,,
+printer,stepper motor,to57-22,1.0,R-27/A
+printer,stepper motor,to42-08s,3.0,R-27/A
+printer,stepper driver,ntm57-ec,1.0,R-27/A
+printer,stepper driver,ntm42-ec,1.0,R-27/A
+printer,step driver,ssdc06-ec,4.0,R-27/A
+printer,step driver,stf05-ec,5.0,R-27/A
+printer,static charge meter,static charge meter (digital) z205,,
+printer,local fab,ss shaft-905 transport,4.0,AL-22
+printer,solid state relay,"rm1e48aa100+rhs45bi-1,30a",,
+printer,solenoid valve,4gd210r-c6-e0-3,3.0,R-27/B
+printer,solenoid valve,vqz3120-5l1-c6,2.0,R-27/B
+printer,solenoid valve,vqz312-5l1-c8,3.0,R-27/B
+printer,solenoid valve,vqz1121-5l1-c6,1.0,R-27/B
+printer,solenoid valve,"make : smc, model : vt307-5dz1-01",4.0,R-27/B
+printer,slectror switch,"make : teknic, spring retrun",,
+printer,silicon heat pad,"blue drop silicon heat pad,size : l1000 *w600*t5 mm(1215*1000*6mm)",,
+printer,shaft,"printer shaft size length-292*dia 15 mm,as per drwaing,moc ss",,R-03/B
+printer,cable,igus chainflex cf211.05.02.02 (4*0.50 c),,
+printer,bearing,bearing 6201 zz/c3,2.0,R-27/B
+printer,servo motor 750w,inovance-ms1h4-75b30cb-a331z-inovance,4.0,R-27/A
+printer,servo motor 400w( with brake),ms1h4-40b30cb-a334z-inovance,1.0,R-27/A
+printer,servo motor 400w,ms1h4-40b30cb-a331z-inovance,3.0,R-27/A
+printer,servo motor 200w,ms1h1-20b30cb-a331z-inovance,3.0,R-27/A
+printer,servo motor,r88m-1m10030h-bs2-omron,1.0,R-27/A
+printer,servo driver 750w,is620ns5r5i-inovance,4.0,R-27/A
+printer,servo driver,is620ns2r8i-inovance,2.0,R-27/A
+printer,servo driver,is620ns1r6i-inovance,3.0,R-27/A
+printer,servo driver,r88d-1sn01h-ect-omron,2.0,R-27/A
+printer,servo driver,r88d-1sn08h-ect-omron,2.0,R-27/A
+printer,servo driver,r88d-kn04h-ect-z-omron,1.0,R-27/A
+printer,vfd,feilande sf2200/60w,2.0,AL-22
+printer,thin roller,belt thin roller with bearing (peek),,
+printer,sensors,"biduk-m18,c1pf-m1808n-03u3/55mm,capacitive sensor,npn-no",8.0,R-27/A
+printer line,sensor- e3x-hd11 2 m,"omron,e3x-hd11 2 m",6.0,
+printer,sensor,wt100-2n1419,2.0,
+printer,servo drive,hiwin d136e3-2-0-00,1.0,
+printer,servo drive,"omron, r88-1sn04h-ect,400 w",1.0,R-27/A
+printer,servo drive,nikki denso ncr-ha2801a-a000,1.0,R-27/A
+printer,servo drive,akribis asd 480-2472e2j1,2.0,R-27/A
+printer,servo drive,akribis asd 240-0618e2j1,1.0,R-27/A
+printer,servo drive,akribis asd 240-2048e2j1,1.0,R-16/B
+printer,ir led light,ir fluser model bl192-28h27-ir,4.0,AL-22
+printer,reflector tape,3m sensor reflector tape,1.0,AL-118
+printer,reed switch,mindman reed switch rca,,
+printer,read head,rh100x30d05a,,
+printer,quick release coupling,quick release ss coupling 1/2 '' both end female thread 1/2'',,
+printer,quartz tube l=1240,sf01-cd-050-v1,,
+printer,gasket,"300900500009b, ta01lc-xz-07-v1",122.0,AL-22
+printer,quartz strap,"length : 340 mm,width :18 mm, t : 5 mm",27.0,R-17/C
+printer,quartz rod,"id : 13 mm,od : 20 mm, length : 320 mm",4.0,R-17/C
+printer,quartz rod,"id : 13 mm,od : 20 mm, length : 370 mm",4.0,R-17/C
+printer,quartz rod,"id : 13 mm,od : 20 mm, length : 610 mm",7.0,R-17/C
+printer,quartz rod,"id : 13 mm,od : 20 mm, length : 720 mm",,
+printer,quartz rod,"id : 13 mm,od : 20 mm, length : 750 mm",2.0,R-17/C
+printer,quartz rod,"id : 13 mm,od : 20 mm, length : 770 mm",8.0,R-17/C
+printer,quartz rod,"id : 13 mm,od : 20 mm, length : 960 mm",,
+printer,quartz rod,"id : 13 mm,od : 20 mm, length : 980 mm",,
+printer,quartz rod,"id : 13 mm,od : 20 mm, length : 990 mm",,
+printer,quartz rod,"id : 13 mm,od : 20 mm, length : 1010 mm",,
+printer,quartz rod,"id : 13 mm,od : 20 mm, length : 1070 mm",4.0,R-17/C
+printer,quartz rod,"id : 13 mm,od : 20 mm, length : 1090 mm",5.0,R-17/C
+printer,quartz rod,"id : 13 mm,od : 20 mm, length : 1190 mm",3.0,R-17/C
+printer,quartz rod,"id : 13 mm,3od : 20 mm, length : 1220 mm",4.0,R-17/C
+printer,quartz rod,"id : 13 mm,3od : 20 mm, length : 1310 mm",,
+printer lid,quartz rod,"id : 13 mm,od : 20 mm, length : 980 mm",,
+printer lid,quartz rod,"id : 13 mm,od : 20 mm, length : 1090 mm",,
+printer lid,quartz rod,"id : 13 mm,od : 20 mm, length : 610 mm",,
+printer,ethernet card,weldmuller ies101-sw8,1.0,AL-22
+printer,quartz retainer bar-210,sfl01-jr-068-v0,,
+printer,dry battery,"dry battery 7 ah, 12v,l64.5 w93.5,h150 mm",,
+printer,dry battery,"dry battery 9 ah, 12v",,
+printer tester,pyrometer,"halm a203916, model d6fcsl-hslt,",1.0,AL-22
+printer,push button,"make :teknic, green, yellow , red with led, 24v dc",,
+printer,push button,"spring push lock button, 24vdc",,
+printer,proximity switch,tl-q5mc1-z,10.0,
+printer,proximity sensor,cfdk 25g1125ln4,12.0,R-1/A
+printer,proximity sensor,e2k-f10mc1,22.0,R-1/A
+printer,proportional valve,itv2031-312l5,,
+printer,probe,"probe for am 4204, anemometer",,
+printer,printer table top,"printer table top for 182 mm,pt02c-xz-124-v0",6.0,R-27/A
+printer,printer motor shaft,tpg motor shaft as per drawing,,
+printer,printer motor bush,tpg motor bush as per drawing,,
+printer,bearing,bearing 6800zz (61800zz),,
+printer,precosionpneumatic electricity hybrid slip ring,"fst99-15-1f-reva  wire length 1m, 15 lines 5a,1 line air",,
+pcw lid printer,pp spun filter,"pp spun filter for pcw, size : l 510mm,dia : 65 mm as per image",19.0,R-14/A
+printer,pp spun filter,"pp spun filter for pcw, size : l 510mm,dia : 65 mm as per image",19.0,R-14/A
+printer,chain belt,"dryerbelt,fof02c-cd-006-v0,300100500140a",,
+printer,thin roller,belt thin roller with bearing (peek),,
+printer,pneumatic cylinder,"smc,cdq2b20-20dz",,
+printer,smps,"smps meanwell rsp-500-24,21a",3.0,AL-22
+printer,smps,smps meanwell sdr-480-24,3.0,
+printer,smps,"smps meanwell sdr-960-24, 40a",3.0,R-26/C
+printer,smps,smps weidmuller promax 960w 24v 40a,2.0,R-26/C
+printer,linear actuator,linear actuator tpab120d-p110-l450-luh-400w.,2.0,Maintenance Back Side
+printer,local fab,ss 304 shaft-printer conveyer,,
+printer,motor,inovance ms1h$-75b30cb-a331z with gear b,1.0,R-18/A
+printer,photoelectric sensor,e3z-r61,4.0,R-1/A
+printer,photoelectric sensor,ee-sx674,17.0,R-1/A
+printer,photoelectric sensor,ee-sx672,33.0,R-1/A
+printer,photoelectric sensor,ee-sx671,10.0,R-1/A
+printer,photoelectric sensor,q31-d0110n-si4u2,7.0,R-1/A
+printer,photo sensor,"make : pepperl+fuchs, model : ub100-f77-e0-v31, part code : 256270",8.0,R-1/A
+printer,photo sensor,"make : huayifens, model : lu672-5na",8.0,R-1/A
+printer,phematic cylinder,"ckd,stk-jy1-20-20",20.0,R-27/B
+printer,phematic cylinder,"ckd,3pa210",,R-27/B
+printer,phematic cylinder,"ckd,3pa210-06-3",,R-27/B
+printer,mccb,mccb-metasol-abn53c-50a-3p,,AL-22
+printer,optocoupler type high speed 8 solid state replay module,qmy302,9.0,AL-22
+printer,optocoupler type high speed 4 solid state 5v replay module,qmy301-5v,9.0,AL-22
+printer,frl,smc frl al30-03-a,,
+printer,encoder strip,encoder sensor strip. rgsz20-s (105mm),1.0,AL-22
+printer,encoder strip,encoder strip renisaw hk-0400-0002 1m,2.0,AL-22
+printer,encoder strip,"encoder strip renisaw rtlf40-s,80mm",4.0,AL-22
+printer,encoder strip,"encoder strip siko mb200,400mm",,
+printer,encoder strip,"encoder strip siko mb200,70mm",1.0,AL-22
+printer,encoder,hiwin linear encoder pm-b-03-3d-t-10,5.0,AL-22
+printer,motor,"make : moons, model : am24hs5401-10n, 2phase step motor",,
+printer lid,motor,"motor with gear, make vgs,model : 5ik150gu-yf,150w,3ph,220/380v,1300/1600 r/min,gear s9kh36b",,
+printer,mccb,mccb-mec-abs-203b-150a-3p,1.0,AL-22
+ldse/printer,solinoid valve,soliniod valve-ckd-3pa210-06-l-3,11.0,R-27/B
+printer,module,tpab85s-p90-l1450-lp-h750,,
+printer,motor,akribis-akm100-b2-j-h9d-0.3-9w4m- motor,1.0,R-16/B
+printer,relay,surge protector-jara-2108,1.0,R-27/C
+printer,relay,relay-siemens-3rh5921-1fa22,2.0,AL-22
+printer,pressure switch,pressure switch-ark-kp47p-01-f1,,
+printer,realy,phase relay-fotek-pr-1-380v,2.0,R-27/B
+printer,phase detector,phase detector-pr-k1-3a-200-480vac,7.0,R-27/B
+printer,vaccum generator kit,"vaccum genrator kit, make : schmalz, model : 10.02.02.04737,vst-scps-einstuf-sd",,
+printer,vaccum generator,"vaccum genrator, make : schmalz,vst-scps-einstuf-sd",,
+printer,servo motor,inovance ms1h4-75b30cb-a334z,1.0,AL-22
+printer,mccb,mccb-shihlin-nv125-sn-100a-,1.0,AL-22
+printer,magnetic plate linear motor,"akribis, akm 150-t14520",3.0,R-16/B
+printer,magnetic linear motor,"akribis, akm 150-w-b4-j-h9d-0.3-8w4m",,
+printer,magnetic grid sensor,msk200/1-0107,,
+printer,frl-regulator,ckd frl -r4000-15-w-t18,3.0,R-9/A
+printer,frl-oil filter,ckd oil filter-m4000-15-w,2.0,R-9/A
+printer,frl-air  filter,ckd air filter-f4000-15-w-y,2.0,R-9/A
+printer line,loader belt,"hy1b-1755-14  (1.2 mm ) - part no - 1040121897b , cw20210809001",,
+printer,liner bearing,"liner bearing, make : hiwin, model : mgn12c",,
+printer,linear motor,hiwin linear motor -lmsa12c-104014129a,1.0,R-16/B
+printer,linear bearing block,"make : thk, model : lm block shs15 lc1ss",10.0,R-25/B
+printer,linear bearing block,"make : iko, model : mxs20",20.0,R-27/B
+printer,light source plate 2,hal205-100h4-r,,
+printer,light source plate,hul205-99h4-r,,
+printer,relay,carlo gavazzi-rgs1a60d50mkes275,,
+printer,led plate,"led light plate aj170018, n230v3.0, 800 w",,
+printer,laser sensor,qs18vn6llp,4.0,R-1/A
+printer,intermediate relay,"dri424024l,dc24v,contact current 5a (with base)",,
+printer,intermediate relay,"rcl424024l,dc24v,contact current 10a
+（with base with light）",,
+printer,induction motor with gear,"vgs, 4ik25gn-uf,25w,380v,3ph/4p,0.16/0.15a,50/60hz,1300/1600 rpm, gear box vgs 4gn-30k",2.0,R-18/C
+printer,hmi,"make : weinview, model : mt8103ie (1wv),i/p 24vdc",,
+printer,zebra printer,zebra-zt410 print head,2.0,AL-22
+printer,heater,printer heater assembley for repair,,
+printer,repetaer,isolated data repeter- iotek-ut509,2.0,AL-22
+printer,timing belt,timing belt-sts-485-s5m-10w,11.0,AL-22
+printer,pully,pully al-lhf-tpa-b85s-cdi,3.0,AL-22
+printer line,guide rail and bearing - shac,"guide-ge15-p200-120-044  ( length- 600 mm ) , bearing- ge15",,
+printer line,guide rail and bearing - shac,"guide- ge15-p200 308-079   ( length-600 mm )  , bearing - ge15",,
+printer line,guide rail and bearing - shac,"guide - ge20-p - 200609 -207  ( length- 1590 mm )  , bearing - ge20",,
+printer line,guide rail and bearing - hiwin,"guide- mgr15c20041e- 10100  ( length-350 mm )  , bearing- mgn15",,
+printer line,guide rail and bearing - hiwin,"guide- egu15c200542 - 20900  ( length-1530 mm ) , bearing- eg15",,
+printer line,guide rail and bearing - hiwin,"guide- egr20h-1907ae-20100  ( length-250 mm )  , bearing- eg20",,
+printer line,guide rail and bearing - hiwin,"guide- egr20h-180bpe-20g00  ( length- 160 mm ) , bearing- eg20",,
+printer,grating reading head,atom4t0-300,3.0,AL-291/Bottom
+printer,grating reading head,t2041-50a,,
+printer,panel lock,panel door lock,,
+printer,gear,"gear pinion as per drawing (lid),length 50 mm*dia 110mm*no of teeth 42,moc ss",,
+printer,flow switch,paddle flow switch-acol-wfs22015ba1a010,5.0,R-27/B
+printer line,flow switch,"acol- wfs22015ba1a010, 5a 240vac, ip65, pmax: 25bar, tmax:80c, sn: 2008151035",,
+printer,flow sensor,"smc, pf2w740-n04-67-m",,
+printer,flat o ring,"flat o ring, id: 4, od: 11, t: 2.5 mm",,
+printer line,flat belts,"1570 length , 20 mm width ,thickness is 1.5 mm",6.0,R-12/C
+printer,flat belt pulley,hbpcg35-p12-16,,
+printer,flat belt,"length : 1030 mm, width :14 mm, thickness : 1.5 mm",36.0,R-12/C
+printer,flat belt,"schy uu8mmgf,length: 980 mm, width : 8 mm",22.0,R-12/D
+printer,flat belt,hy19-length : 600- width : 14,19.0,R-12/C
+printer,flat belt,"w :20 mm,l : 845 mm",6.0,R-12/D
+printer,relay,amplifier-atam-4020,,
+printer,plc card,ethercat-omron-nx-ecc201,,
+printer,timing belt,timing belt-ntbn-725-s5m-25,,
+printer,timing belt,timing belt-310-s5m-w10,14.0,R-13/D
+printer,timing belt,timing belt-455-s5m-w15,4.0,R-13/C
+printer,filter element,"smc,zfc-el-3,d12*d8*l20mm",270.0,R-27/D
+printer,filter element,"smc,zfc-el-4,d16*d12*l25mm",90.0,R-27/D
+printer,timing belt,timing belt-10040-s8m-w25,3.0,R-27/C
+printer,contactor,contactor-fuji electric-sc-n8(180)-3p,1.0,R-14/C
+printer,contactor,contactor-metasol-mc-9b-3pole-9a-230vac,2.0,AL-22
+printer,timing belt,timing belt-265-s5m-w10,,
+printer,exhaust fan,"make : wydcpan brushless, model : acfan 12038ha2bapl, 220/240 vac, 50/60 hz, 0.14 a ,(120*120*38)",,
+printer,plc card,plc  module-omron-id5342,1.0,AL-22
+printer,plc card,plc module-omron-ad2604,1.0,AL-22
+printer,plc card,plc module-omron-ec0142,1.0,AL-22
+printer,plc card,plc module-omron-id4342,1.0,AL-22
+printer,encloser box,plastic encloser box for push button -3 hole,10.0,AL-291
+printer,plc card,plc module-omron-od5121,1.0,AL-22
+printer,element,"make :teknic, no",,
+printer,element,"make :teknic, nc",,
+printer,electronic vaccum regulator,"make : smc, model : itv2031-312l5",,
+printer,plc card,plc module-omron-pf0630,1.0,
+printer,plc card,plc-omron-nj501-1400,1.0,AL-22
+printer,plc card,plc-omron-nx102-1200,1.0,AL-22
+printer,dryer plc unit,sc-zn2008145225,,
+printer,hmi,weinview hmi-mt8103ie,1.0,AL-22
+printer,hmi,hmi-elo-et-2002l-2uwa-1-g-1010310089a,,
+printer,drive,akribis-sys motion linear drive-asd480-2472e2j1,2.0,R-27/A
+printer,servo motor,motor_omron-r88m-1m40030t-bs2,1.0,R-27/A
+printer,block,bearing block-ucfl-205,,
+printer,belt,flat belt -880*8mm*1.5,,
+printer,belt,timing belt-std-335*s5m,13.0,R-13/D
+printer,push lock button,"metal push lock button- 22mm,24v ring led green 5 pin",1.0,
+printer,cylinder,"make : smc, model : mqqtb20-10d-d27f-3f1-31b",1.0,R-27/B
+printer,cylinder,"make : smc, model : mgpm20-20z",3.0,R-27/B
+printer,cylinder,"make : ckd, model : stg-m-16-20-t0v-d-w1",4.0,R-27/B
+printer,cylinder,"make : ckd, model : ssg-l-25d-15",2.0,R-27/B
+printer,cylinder,"make : ckd, model : stk-jy1-20-20",9.0,R-27/B
+printer,frl,frl-ckd-w4000-15-w-y,2.0,
+printer,eletrical slide,festo-electrical slide-egsk-26-50-6p,,
+printer,relay,"carlo gavazzi-rm1e48aa100-ac51:100a,480v",,
+printer,clamping roller,"clamping roller, id :15, od : 18, height : 12 mm material nylon",,
+printer,clamp,ss clamp for 1/2'' inch,,
+printer,capacitive proximity sensor,c1pf-m1808n-o3u3/55mm,,
+printer,calibraction screen,"calibraction screen : g4290, sc code 10600358484",,
+printer,cable,"cable igus chainflex cf211.05.02.04, 4*0.5c",,
+printer,cable,"cable igus chainflex cf140.07.04 ul, 4g*0.75c",,
+printer,lm beaing,iko-mxs20-c1t1hs2,,
+printer,igus cable,igus cablecf130-05.02. ul( 2*0.5*50)c,,
+printer,igus cable,"igus cable cf 140-07.04.ul(4g0,75)c",,
+printer,gear box,gear box-pbr090-10-19-1040111186a,,
+printer,bearing block,"bearing block, mgw12 , make : hiwin",12.0,R-27/B
+printer line,bearing - thk,bearing - thk shs20,1.0,R-27/B
+printer line,bearing,6000z,8.0,R-27/B
+printer,bearing,6306-2z-c3,4.0,R-27/B
+printer,bearing,6206-2z-c3,7.0,R-27/B
+printer,ball screw,gw1516bs-hulr-0262x0262-c7y,,
+printer,analog output unit,"make : omron, model : nx-da2603",2.0,AL-22
+printer,air flowmeter,"lzm-15zt,1-10m³/h",46.0,16/A
+printer,750w servo motor (absolute value ),r88m-1m75030t-bs2,1.0,R-27/C
+printer,57 closed-loop stepper motor,am24rs3dmb,3.0,R-18/A
+printer,42 stepper motor,ms17hd4l415c-10,,
+printer,400w servo motor,r88m-k40030h-s2-z,2.0,R-27/C
+printer lid,roller,rubber coating of ss roller length 256 mm *dia 100 mm,63.0,AL/22
+printer lid,gear,"gear for lid tool : moc : ss : size, length 50 mm*dia 110mm*no of teeth 42",,
+printer lid,ss shaft,"ss shaft length 462, dia 20 mm",,
+printer lid,ss shaft,ss shaft  15*305 mm,,
+printer lid,roller guide,"nylon roller guide dia 120,45 mm",,
+printer lid,teflon guide,teflon guide bar 465*40*30 mm,,
+printer lid,,"teflon strip printer ff input 455*20 mm,8 mm",,
+printer lid,,"teflon strip printer ff output 240* 20 mm,8mm",,
+printer lid,,"ss drum roller,length 240,dia 130 mm",,
+printer lid,,ss drum roller rubber coating,,
+printer lid,,"nylon roller dia 125,165 mm",,
+printer lid,,"nylon roller dia 68.5,45 mm",,
+printer,suction leg,tester suction leg-300900500050b,36.0,AL-22
+printer,contactor,contactor-siemens-3rt5044..1a-3p,,
+ldse/printer,igus cable,cable-igus chainflex-cf211.05.04.02(4*0.5)c,,
+printer,heater,hearter-sf01-pf-006-v3-combustion tower,,
+printer,igus cable,cable igus-chainflex-cf211.05.02.02(4*0.5)c,,
+printer,bearing,bearing-skf-638/5-2z,,
+printer,bearing,bearinggg1505ds-basr-230*168-301500200388b,1.0,R-16/B
+printer,bearing block,bearing block-fl-204,,R-27/B
+printer,timing belt,timing belt-l:6376-s8m-15mm,,
+printer,bearing,bearing-thk-cf5uura,10.0,AL-22
+printer,bearing,nbc_bearing_6202z,,
+printer,connecter,5 pin connecter-schmalz-vs-vp1-d-npn-k-s0l-as,,
+printer,vaccume generator,"vaccum genrator, make : schmalz,vst-scps-einstuf-sd",,
+printer,vaccume generator,"vaccum genrator kit, make : schmalz, model : 10.02.02.04737,vst-scps-einstuf-sd",,
+printer,barcode printer,barcode printer head for zebra zt410,,
+printer,dragchain,printer-r09.30.048.0-600mm-30link,,
+printer,dragchain,mounting bracket-080.30.12pz,,
+printer,bearing,bearing-mr128zz,52.0,R-27/B
+printer,coupling,bearing iko crbfv-08atc,,
+printer,servo drive,servo drive akribis asd 480-2472e2j1,,
+printer,pressure gauge,pressure gauge-smc-g36-10-01,5.0,R-27/B
+printer,blots,blots m3*4 mm -countertop,,
+printer,blots,blots m*3 mm -countertop,,
+printer,flat belt,flat belt - 905*2.0*3.5mm,,
+printer,thin roller,thin roller with beraing(peek),,
+printer,ir lamps,"ir lamps-1800w-l: 620mm,od10mm",,R-26/A
+printer,motor,servo motoromron-r88m-k20030h-s2-z,2.0,AL-22

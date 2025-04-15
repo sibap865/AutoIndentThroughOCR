@@ -1,0 +1,11 @@
+streamlit
+openpyxl
+torch
+accelerate
+transformers
+docling-core
+huggingface_hub
+Pillow
+python-dotenv
+numpy<2
+PyMuPDF
