@@ -59,7 +59,7 @@ elif st.session_state.use_image:
     image_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
     if image_file:
         image = Image.open(image_file)
-        st.image(image, caption="Uploaded Image", use_cointainer_width=True)
+        st.image(image, caption="Uploaded Image")
         result = image
 
 # Output
